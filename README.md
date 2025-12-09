@@ -14,7 +14,7 @@
   <br />
   <a href="#-features"><strong>Explore the features »</strong></a>
   <br />
-  <a href="notebooks/movie_pipeline.ipynb">View Notebook</a>
+  <a href="https://colab.research.google.com/drive/12ZMoM0faPVrxqWPihBCswuiV1XC78IEp#scrollTo=IMsC35bK03Ty">View Notebook</a>
   ·
   <a href="issues">Report Bug</a>
   ·
@@ -101,7 +101,7 @@ Metrics:
 ## 🛠 Installation
 
 ```bash
-git clone (https://github.com/alexander-ayer/COS482-Project)
+git clone https://github.com/alexander-ayer/COS482-Project
 cd movie-success-project
 pip install -r requirements.txt
 ```
