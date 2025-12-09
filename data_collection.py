@@ -20,6 +20,14 @@ from typing import List
 
 OMDB_URL = "http://www.omdbapi.com/"
 
+# fetch using OMDb
+from src.data_collection import fetch_omdb, save_raw_csv
+with open("titles.txt") as f:
+    titles = [t.strip() for t in f if t.strip()]
+df = fetch_omdb("cdd03cf8", titles)
+save_raw_csv(df, path="data_raw/omdb_master.csv")
+
+
 def fetch_omdb(api_key: str, titles: List[str], sleep: float=0.2):
     records = []
     for t in titles:
