@@ -101,7 +101,7 @@ Metrics:
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/movie-success-project.git
+git clone (https://github.com/alexander-ayer/COS482-Project)
 cd movie-success-project
 pip install -r requirements.txt
 ```
@@ -111,7 +111,7 @@ pip install -r requirements.txt
 ## 🔑 OMDb API Setup
 
 ```bash
-export OMDB_API_KEY="your_key_here"
+export OMDB_API_KEY="cdd03cf8"
 ```
 
 ---
@@ -163,5 +163,5 @@ python src/modeling.py
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Computer Science | Machine Learning  
+**Vasu Patel & Alex Ayer**  
+Computer Science | DATA Science  
