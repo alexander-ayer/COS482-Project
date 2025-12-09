@@ -19,4 +19,4 @@ Quickstart (without external APIs):
 3. Train:
     python src/modeling.py
 
-For OMDb: set OMDB_API_KEY and provide titles file to fetch real metadata.
+For OMDb: set "cdd03cf8" and provide titles file to fetch real metadata.
