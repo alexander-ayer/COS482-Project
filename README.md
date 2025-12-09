@@ -102,7 +102,6 @@ Metrics:
 
 ```bash
 git clone https://github.com/alexander-ayer/COS482-Project
-cd movie-success-project
 pip install -r requirements.txt
 ```
 
