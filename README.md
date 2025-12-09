@@ -14,7 +14,7 @@
   <br />
   <a href="#-features"><strong>Explore the features »</strong></a>
   <br />
-  <a href="https://colab.research.google.com/drive/12ZMoM0faPVrxqWPihBCswuiV1XC78IEp#scrollTo=IMsC35bK03Ty">View Notebook</a>
+  <a href="https://colab.research.google.com/drive/12ZMoM0faPVrxqWPihBCswuiV1XC78IEp?usp=sharing">View Notebook</a>
   ·
   <a href="issues">Report Bug</a>
   ·
